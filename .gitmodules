@@ -1,0 +1,8 @@
+[submodule "ptera-derapombe2-backend"]
+	path = ptera-derapombe2-backend
+	url = https://github.com/Kyutech-C3/ptera-derapombe2-backend 
+	branch = main
+[submodule "ptera-derapombe2-frontend"]
+	path = ptera-derapombe2-frontend
+	url = https://github.com/Kyutech-C3/ptera-derapombe2-frontend
+	branch = main
