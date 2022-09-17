@@ -6,3 +6,7 @@
 	path = ptera-derapombe2-frontend
 	url = https://github.com/Kyutech-C3/ptera-derapombe2-frontend
 	branch = main
+[submodule "ptera-derapombe2-model"]
+	path = ptera-derapombe2-model
+	url = https://github.com/Kyutech-C3/ptera-derapombe2-model.git
+	branch = main
