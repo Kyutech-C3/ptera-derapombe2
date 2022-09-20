@@ -10,3 +10,6 @@
 	path = ptera-derapombe2-model
 	url = https://github.com/Kyutech-C3/ptera-derapombe2-model.git
 	branch = main
+[submodule "ptera-derapombe2-model-server"]
+	path = ptera-derapombe2-model-server
+	url = https://github.com/Kyutech-C3/ptera-derapombe2-model-server.git
